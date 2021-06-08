@@ -23,14 +23,14 @@ Data Analytics case study
    
 # Limitations / Analysis   
    
-   The main limitation of this analysis is the brevity of the timeframe.  This is only a yearlong interval and it also took place during what might be considered the peak of the  COVID pandemic, so this timeframe may altogether be an outlier.   
+   The central limitation of this analysis is the brevity of the timeframe.  Only being a yearlong interval and taking place during what might be considered the peak of the COVID pandemic - this timeframe may altogether be an outlier.   
    
-   The data for this year appears to show a seasonal variation - most visibly between residential noise complaints and heat/hot water calls.  As expected, the heat and hot water calls increase through winter months while residential noise complaints seem to swell and peak in fall months.  The peak in illegal parking during Spring months is also interesting.  
+   The data for this year appears to show a seasonal variation - most visibly between residential noise complaints and heat/hot water calls.  As expected, the heat and hot water calls increase through winter months while residential noise complaints seem to swell and peak in fall months.  The peak in illegal parking during spring is also interesting.  
    
 # Next steps
 
-   The next step for furthering this project would be to repeat this process for all years available in the dataset, giving over eleven years total from which to establish trends and make predictions.  Also, it could lend useful insights into behavioral / societal changes in a large, diverse population throughout a pandemic.  
-   After completing an extended study, exciting improvements to budgetary precision for city services could be found.  
+   The next step for this project would be a repetition of this process for all years available, giving over eleven years total from which to establish trends and make predictions.  Also, it could lend useful insights into behavioral / societal changes in a large, diverse population throughout a pandemic.  
+   After completing an extended study, exciting improvements to budgetary precision for city services might be possible.  
    
    
 
