@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Overview
 
-  The purpose of this project was to explore larger datasets and try to identify useful trends.  The dataset used here was retrieved from BigQuery using the Google Cloud Platform with the following -    
+  The purpose of this project was to explore larger datasets and identify useful trends.  The dataset was retrieved from BigQuery using the Google Cloud Platform with the following -    
 
 
 ```{r eval = FALSE}
@@ -99,6 +99,6 @@ ny_311_daily_mode_year <- ny_311_daily_mode[ which(ny_311_daily_mode$date > "202
 
 ## Data Viz
 
-   After pulling the twelve monthly datasets into Google Sheets, the data was cleaned further and then visualized.  After testing several chart formats, it seemed that the simplest way to take in the message from this much data was to use a stacked bar chart.  (See the "New York 311 Calls" pdf)  
+   After pulling the twelve monthly datasets into Google Sheets, the data was cleaned further and then visualized.  After testing several chart formats, it seemed that the simplest way to take in the message from this much data was to use a stacked bar chart.  (See "New York 311 Calls" pdf)  
    
    
